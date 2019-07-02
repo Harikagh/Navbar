@@ -1,0 +1,10 @@
+i{
+    color:white;
+    font-size:30px;
+}
+#navbar{
+    float: right;
+}
+.nav-up{
+    top:-40px;
+}
